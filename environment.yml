@@ -8,3 +8,6 @@ dependencies:
   - scipy
   - tqdm
   - xarray
+  - netcdf4 
+  - h5netcdf
+  - zenodo_get
